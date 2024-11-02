@@ -2,7 +2,6 @@
 This project showcases a microservices-based architecture using Spring Boot, Spring Cloud, and Netflix Eureka for service discovery. The Eureka Discovery Server allows all microservices to register and communicate with each other, while the Gateway acts as a unified entry point for external access to these services.
 
 ## Architecture
-(Include an architecture diagram if available)
 
 The system consists of the following components:
 * Customer Service: Handles Customer details.
